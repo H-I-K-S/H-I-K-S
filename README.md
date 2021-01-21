@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center"> 
+  Waiting...<br>
+  <img src="https://profile-counter.glitch.me/H-I-K-S-termux-weabot/count.svg" />
+</p>
 
 <!--
 **H-I-K-S/H-I-K-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
